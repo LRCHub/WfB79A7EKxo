@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "友達の唄",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-23T05:42:14.711549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "友達の唄",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_友達の唄_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "友達の唄",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/02_友達の唄_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "友達の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/03_友達の唄_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "友達の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_友達の唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BUMP OF CHICKEN『友達の唄』",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_BUMP_OF_CHICKEN『友達の唄』_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tomodachi no Uta [友達の唄]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_Tomodachi_no_Uta_[友達の唄]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "友達の唄",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/07_友達の唄_GReeeeN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "友達の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_友達の唄_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
